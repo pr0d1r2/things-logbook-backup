@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    hpricot (0.8.4)
+    things-rb (0.4.0)
+      hpricot
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  things-rb
