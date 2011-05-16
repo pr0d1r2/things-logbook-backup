@@ -9,4 +9,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  things-rb
+  things-rb (= 0.4.0)
